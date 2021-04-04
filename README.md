@@ -3,7 +3,7 @@ Integration of Jenkins Github
 
 public class sampleClass {
 	
-	public static void main(String[] c)
+	public static void main(String[] d)
 	{
 		System.out.println("This is sample class for jenkins and github integration");
 		
