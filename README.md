@@ -7,3 +7,4 @@ public class sampleClass {
 	{
 		System.out.println("This is sample class for jenkins and github integration");
 	}
+}
