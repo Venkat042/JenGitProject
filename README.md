@@ -7,7 +7,7 @@ public class sampleClass {
 	{
 		System.out.println("This is sample class for jenkins and github integration");
 		
-		System.out.println("Done by Venkat");
+		System.out.println("Done by Venkatasubramaniam");
 
 	}
 }
